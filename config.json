@@ -8,18 +8,18 @@
     "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": ""
+    "more": "En savoir plus",
+    "intro": "Intro",
+    "title": "Titre"
   },
   "legend": {
-    "edgeLabel": "sdqfdfs",
-    "colorLabel": "",
-    "nodeLabel": "personnes"
+    "edgeLabel": "Collectionne",
+    "colorLabel": "Bleu=collectionneur/Blanc=artiste",
+    "nodeLabel": "Personnes"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": "",
     "hoverBehavior": "default"
   },
   "informationPanel": {
@@ -40,10 +40,10 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 3,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 0.8,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
